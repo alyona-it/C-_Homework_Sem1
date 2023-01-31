@@ -1,0 +1,15 @@
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex004_Input1Number_GetAllEvenNumbersFrom1toN\bin\Debug\net6.0\Ex004_Input1Number_GetAllEvenNumbersFrom1toN.exe
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex004_Input1Number_GetAllEvenNumbersFrom1toN\bin\Debug\net6.0\Ex004_Input1Number_GetAllEvenNumbersFrom1toN.deps.json
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex004_Input1Number_GetAllEvenNumbersFrom1toN\bin\Debug\net6.0\Ex004_Input1Number_GetAllEvenNumbersFrom1toN.runtimeconfig.json
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex004_Input1Number_GetAllEvenNumbersFrom1toN\bin\Debug\net6.0\Ex004_Input1Number_GetAllEvenNumbersFrom1toN.dll
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex004_Input1Number_GetAllEvenNumbersFrom1toN\bin\Debug\net6.0\Ex004_Input1Number_GetAllEvenNumbersFrom1toN.pdb
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex004_Input1Number_GetAllEvenNumbersFrom1toN\obj\Debug\net6.0\Ex004_Input1Number_GetAllEvenNumbersFrom1toN.csproj.AssemblyReference.cache
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex004_Input1Number_GetAllEvenNumbersFrom1toN\obj\Debug\net6.0\Ex004_Input1Number_GetAllEvenNumbersFrom1toN.GeneratedMSBuildEditorConfig.editorconfig
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex004_Input1Number_GetAllEvenNumbersFrom1toN\obj\Debug\net6.0\Ex004_Input1Number_GetAllEvenNumbersFrom1toN.AssemblyInfoInputs.cache
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex004_Input1Number_GetAllEvenNumbersFrom1toN\obj\Debug\net6.0\Ex004_Input1Number_GetAllEvenNumbersFrom1toN.AssemblyInfo.cs
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex004_Input1Number_GetAllEvenNumbersFrom1toN\obj\Debug\net6.0\Ex004_Input1Number_GetAllEvenNumbersFrom1toN.csproj.CoreCompileInputs.cache
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex004_Input1Number_GetAllEvenNumbersFrom1toN\obj\Debug\net6.0\Ex004_Input1Number_GetAllEvenNumbersFrom1toN.dll
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex004_Input1Number_GetAllEvenNumbersFrom1toN\obj\Debug\net6.0\refint\Ex004_Input1Number_GetAllEvenNumbersFrom1toN.dll
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex004_Input1Number_GetAllEvenNumbersFrom1toN\obj\Debug\net6.0\Ex004_Input1Number_GetAllEvenNumbersFrom1toN.pdb
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex004_Input1Number_GetAllEvenNumbersFrom1toN\obj\Debug\net6.0\Ex004_Input1Number_GetAllEvenNumbersFrom1toN.genruntimeconfig.cache
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex004_Input1Number_GetAllEvenNumbersFrom1toN\obj\Debug\net6.0\ref\Ex004_Input1Number_GetAllEvenNumbersFrom1toN.dll
