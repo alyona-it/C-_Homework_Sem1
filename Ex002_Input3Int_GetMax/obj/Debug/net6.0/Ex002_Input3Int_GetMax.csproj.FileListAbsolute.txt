@@ -1,0 +1,5 @@
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex002_Input3Int_GetMax\obj\Debug\net6.0\Ex002_Input3Int_GetMax.csproj.AssemblyReference.cache
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex002_Input3Int_GetMax\obj\Debug\net6.0\Ex002_Input3Int_GetMax.GeneratedMSBuildEditorConfig.editorconfig
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex002_Input3Int_GetMax\obj\Debug\net6.0\Ex002_Input3Int_GetMax.AssemblyInfoInputs.cache
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex002_Input3Int_GetMax\obj\Debug\net6.0\Ex002_Input3Int_GetMax.AssemblyInfo.cs
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex002_Input3Int_GetMax\obj\Debug\net6.0\Ex002_Input3Int_GetMax.csproj.CoreCompileInputs.cache
