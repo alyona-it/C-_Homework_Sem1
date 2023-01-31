@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex003_Input1Number_GetIfNumberEven/1.0.0": {
+        "runtime": {
+          "Ex003_Input1Number_GetIfNumberEven.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex003_Input1Number_GetIfNumberEven/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

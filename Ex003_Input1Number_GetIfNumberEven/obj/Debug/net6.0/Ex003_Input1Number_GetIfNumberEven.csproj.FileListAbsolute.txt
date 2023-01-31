@@ -1,0 +1,15 @@
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex003_Input1Number_GetIfNumberEven\obj\Debug\net6.0\Ex003_Input1Number_GetIfNumberEven.csproj.AssemblyReference.cache
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex003_Input1Number_GetIfNumberEven\obj\Debug\net6.0\Ex003_Input1Number_GetIfNumberEven.GeneratedMSBuildEditorConfig.editorconfig
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex003_Input1Number_GetIfNumberEven\obj\Debug\net6.0\Ex003_Input1Number_GetIfNumberEven.AssemblyInfoInputs.cache
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex003_Input1Number_GetIfNumberEven\obj\Debug\net6.0\Ex003_Input1Number_GetIfNumberEven.AssemblyInfo.cs
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex003_Input1Number_GetIfNumberEven\obj\Debug\net6.0\Ex003_Input1Number_GetIfNumberEven.csproj.CoreCompileInputs.cache
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex003_Input1Number_GetIfNumberEven\bin\Debug\net6.0\Ex003_Input1Number_GetIfNumberEven.exe
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex003_Input1Number_GetIfNumberEven\bin\Debug\net6.0\Ex003_Input1Number_GetIfNumberEven.deps.json
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex003_Input1Number_GetIfNumberEven\bin\Debug\net6.0\Ex003_Input1Number_GetIfNumberEven.runtimeconfig.json
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex003_Input1Number_GetIfNumberEven\bin\Debug\net6.0\Ex003_Input1Number_GetIfNumberEven.dll
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex003_Input1Number_GetIfNumberEven\bin\Debug\net6.0\Ex003_Input1Number_GetIfNumberEven.pdb
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex003_Input1Number_GetIfNumberEven\obj\Debug\net6.0\Ex003_Input1Number_GetIfNumberEven.dll
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex003_Input1Number_GetIfNumberEven\obj\Debug\net6.0\refint\Ex003_Input1Number_GetIfNumberEven.dll
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex003_Input1Number_GetIfNumberEven\obj\Debug\net6.0\Ex003_Input1Number_GetIfNumberEven.pdb
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex003_Input1Number_GetIfNumberEven\obj\Debug\net6.0\Ex003_Input1Number_GetIfNumberEven.genruntimeconfig.cache
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex003_Input1Number_GetIfNumberEven\obj\Debug\net6.0\ref\Ex003_Input1Number_GetIfNumberEven.dll
