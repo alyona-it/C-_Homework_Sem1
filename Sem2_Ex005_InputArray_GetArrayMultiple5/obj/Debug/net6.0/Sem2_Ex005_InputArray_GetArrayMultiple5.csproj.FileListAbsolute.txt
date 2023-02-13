@@ -1,0 +1,15 @@
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Sem2_Ex005_InputArray_GetArrayMultiple5\obj\Debug\net6.0\Sem2_Ex005_InputArray_GetArrayMultiple5.csproj.AssemblyReference.cache
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Sem2_Ex005_InputArray_GetArrayMultiple5\obj\Debug\net6.0\Sem2_Ex005_InputArray_GetArrayMultiple5.GeneratedMSBuildEditorConfig.editorconfig
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Sem2_Ex005_InputArray_GetArrayMultiple5\obj\Debug\net6.0\Sem2_Ex005_InputArray_GetArrayMultiple5.AssemblyInfoInputs.cache
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Sem2_Ex005_InputArray_GetArrayMultiple5\obj\Debug\net6.0\Sem2_Ex005_InputArray_GetArrayMultiple5.AssemblyInfo.cs
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Sem2_Ex005_InputArray_GetArrayMultiple5\obj\Debug\net6.0\Sem2_Ex005_InputArray_GetArrayMultiple5.csproj.CoreCompileInputs.cache
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Sem2_Ex005_InputArray_GetArrayMultiple5\bin\Debug\net6.0\Sem2_Ex005_InputArray_GetArrayMultiple5.exe
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Sem2_Ex005_InputArray_GetArrayMultiple5\bin\Debug\net6.0\Sem2_Ex005_InputArray_GetArrayMultiple5.deps.json
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Sem2_Ex005_InputArray_GetArrayMultiple5\bin\Debug\net6.0\Sem2_Ex005_InputArray_GetArrayMultiple5.runtimeconfig.json
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Sem2_Ex005_InputArray_GetArrayMultiple5\bin\Debug\net6.0\Sem2_Ex005_InputArray_GetArrayMultiple5.dll
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Sem2_Ex005_InputArray_GetArrayMultiple5\bin\Debug\net6.0\Sem2_Ex005_InputArray_GetArrayMultiple5.pdb
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Sem2_Ex005_InputArray_GetArrayMultiple5\obj\Debug\net6.0\Sem2_Ex005_InputArray_GetArrayMultiple5.dll
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Sem2_Ex005_InputArray_GetArrayMultiple5\obj\Debug\net6.0\refint\Sem2_Ex005_InputArray_GetArrayMultiple5.dll
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Sem2_Ex005_InputArray_GetArrayMultiple5\obj\Debug\net6.0\Sem2_Ex005_InputArray_GetArrayMultiple5.pdb
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Sem2_Ex005_InputArray_GetArrayMultiple5\obj\Debug\net6.0\Sem2_Ex005_InputArray_GetArrayMultiple5.genruntimeconfig.cache
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Sem2_Ex005_InputArray_GetArrayMultiple5\obj\Debug\net6.0\ref\Sem2_Ex005_InputArray_GetArrayMultiple5.dll
