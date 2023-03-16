@@ -3,3 +3,13 @@ T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex002_
 T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex002_Input3Int_GetMax\obj\Debug\net6.0\Ex002_Input3Int_GetMax.AssemblyInfoInputs.cache
 T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex002_Input3Int_GetMax\obj\Debug\net6.0\Ex002_Input3Int_GetMax.AssemblyInfo.cs
 T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex002_Input3Int_GetMax\obj\Debug\net6.0\Ex002_Input3Int_GetMax.csproj.CoreCompileInputs.cache
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex002_Input3Int_GetMax\bin\Debug\net6.0\Ex002_Input3Int_GetMax.exe
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex002_Input3Int_GetMax\bin\Debug\net6.0\Ex002_Input3Int_GetMax.deps.json
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex002_Input3Int_GetMax\bin\Debug\net6.0\Ex002_Input3Int_GetMax.runtimeconfig.json
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex002_Input3Int_GetMax\bin\Debug\net6.0\Ex002_Input3Int_GetMax.dll
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex002_Input3Int_GetMax\bin\Debug\net6.0\Ex002_Input3Int_GetMax.pdb
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex002_Input3Int_GetMax\obj\Debug\net6.0\Ex002_Input3Int_GetMax.dll
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex002_Input3Int_GetMax\obj\Debug\net6.0\refint\Ex002_Input3Int_GetMax.dll
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex002_Input3Int_GetMax\obj\Debug\net6.0\Ex002_Input3Int_GetMax.pdb
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex002_Input3Int_GetMax\obj\Debug\net6.0\Ex002_Input3Int_GetMax.genruntimeconfig.cache
+T:\Alyona_Koval\Path_in_IT\Geek_brains\3_C#\Seminar\Sem1\C#_Homework_Sem1\Ex002_Input3Int_GetMax\obj\Debug\net6.0\ref\Ex002_Input3Int_GetMax.dll

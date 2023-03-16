@@ -4,10 +4,7 @@
 // -3 -> нет
 // 7 -> нет
 
-int a; 
-
-Console.WriteLine ("Введите целое число");
-int a = Convert.ToInt32(Console.ReadLine());
+int a = 7; 
 
 if (a % 2 == 0)
 {
